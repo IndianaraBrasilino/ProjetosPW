@@ -1,0 +1,10 @@
+id
+foto
+nome
+descricao
+preco
+estoque
+ativo
+
+
+TCC deixar claro a questão do banco, não deletar as informações, por questão de relatório.
